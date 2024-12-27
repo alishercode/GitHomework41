@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "slug": "first-blog-post",
+      "content": "This is the content of the first blog post.",
+      "tags": ["tag1", "tag2"],
+      "comments": [
+        {
+          "user_id": 1,
+          "comment": "Great post!"
+        }
+      ]
+    }
+  ]
+  

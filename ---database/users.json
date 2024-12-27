@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "username": "uniqueUser",
+      "password": "securePassword",
+      "fullName": "User Full Name",
+      "age": 25,
+      "email": "user@example.com",
+      "gender": "male"
+    }
+  ]
+  
